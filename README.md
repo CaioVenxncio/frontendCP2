@@ -1,4 +1,4 @@
-# CP-1-Front-end
+# CP 2 Front End
 O site da Vinheria Agnello foi desenvolvido para transmitir ao usuário uma experiência parecida com uma visita a vinheria física, proporcionando um momento de compras repleto de conhecimento sobre vinhos apenas utilizando um site.   
 
 O nosso site de vinhos foi estruturado utilizando as tecnologias: JavaScript, HTML e CSS. Nós decidimos dividir o site entre página principal, sobre nós, curiosidades, vinhos, carrinho, formulario, verificação de idade, login e cadastro. 
@@ -45,8 +45,6 @@ Sugestão de combinações de comidas baseados no vinho
 Página de sugestões que baseado na escolha do vinho, a página mostra algumas receitas que combinam.
 Formulário de contato
 Formulário simples de contato com Nome, telefone, email e mensagem e um botão enviar que irá gerar um pop up de mensagem enviada com sucesso.
-Link do repositório:
-https://davidcordeiro15.github.io/
 
 Membros do grupo:
 Caio Venancio da Silva 556030
